@@ -30,8 +30,8 @@ void main(){
 		scanf("%d",&a[i]);	
 	}
 	quicksort(a,0,n-1);
-	printf("Sorted array");
+	printf("Sorted array: ");
 	for(i=0;i<n;i++){
-		printf("%d",a[i]);
+		printf("%d ",a[i]);
 	}
 }
