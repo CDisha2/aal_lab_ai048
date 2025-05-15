@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 void insertionSort(int arr[], int n)
@@ -27,6 +26,7 @@ int main()
     int n = sizeof(arr) / sizeof(arr[0]);
 
     insertionSort(arr, n);
+    printf("sorted array:");
     printArray(arr, n);
 
     return 0;
