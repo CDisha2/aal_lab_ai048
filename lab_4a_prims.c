@@ -70,7 +70,7 @@ int main()
     return 0;
 }
 
-/*output:
+/*OUTPUT:
 
 Edge 	Weight
 0 - 1 	2 
