@@ -57,3 +57,13 @@ void main() {
         printf("%d ", arr[i]);
     printf("\n");
 }
+
+
+/*output:
+
+Original array:
+38 27 43 3 9 82 10 
+Sorted array(merge sort):
+3 9 10 27 38 43 82 
+
+*/
