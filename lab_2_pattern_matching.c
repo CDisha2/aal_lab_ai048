@@ -47,3 +47,26 @@ int main(int argc, char *argv[]) {
 		printf("\n\npattern not matched");
 	}
 } 
+
+
+/*output:
+
+enter the number of elements : 4
+enter the elements :5
+enter the elements :7
+enter the elements :8
+enter the elements :0
+
+array : 5 7 8 0 
+
+enter the number of elements : 2
+enter the elements :8
+enter the elements :0
+
+
+pattern array : 8 0 
+
+pattern matched
+
+index :3
+*/
