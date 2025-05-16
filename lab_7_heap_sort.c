@@ -39,10 +39,19 @@ void printArray(int arr[], int n) {
 int main() {
     int arr[] = {9, 4, 3, 8, 10, 2, 5}; 
     int n = sizeof(arr) / sizeof(arr[0]);
-
+    printf("array:");
+    printArray(arr, n);
     heapSort(arr, n);
 
-    printf("Sorted array is \n");
+    printf("Sorted array(heap sort) is \n");
     printArray(arr, n);
     return 0;
 }
+
+/*OUTPUT:
+
+array:9 4 3 8 10 2 5 
+Sorted array(heap sort) is 
+2 3 4 5 8 9 10 
+
+*/
