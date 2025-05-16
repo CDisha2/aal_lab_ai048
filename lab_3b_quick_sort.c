@@ -37,7 +37,7 @@ void main(){
 }
 
 
-/*ouput:
+/*OUTPUT:
 
 Enter size of array:4
 
