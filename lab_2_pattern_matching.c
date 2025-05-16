@@ -49,7 +49,7 @@ int main(int argc, char *argv[]) {
 } 
 
 
-/*output:
+/*OUTPUT:
 
 enter the number of elements : 4
 enter the elements :5
