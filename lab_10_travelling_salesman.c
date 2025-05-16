@@ -63,3 +63,10 @@ int main() {
 
     return 0;
 }
+
+/*OUTPUT:
+
+The shortest path is: 0 1 3 4 2 
+The minimum distance is: 70
+
+*/
