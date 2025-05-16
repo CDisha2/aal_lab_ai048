@@ -30,7 +30,7 @@ void main(){
 		scanf("%d",&a[i]);	
 	}
 	quicksort(a,0,n-1);
-	printf("Sorted array: ");
+	printf("Sorted array(quick sort): ");
 	for(i=0;i<n;i++){
 		printf("%d ",a[i]);
 	}
