@@ -42,7 +42,7 @@ int main() {
 }
 
 
-/*output:
+/*OUTPUT:
 
 Original array: 
 64 34 25 12 22 11 90 
