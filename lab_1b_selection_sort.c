@@ -36,3 +36,12 @@ int main() {
     
     return 0;
 }
+
+
+/*output:
+
+Original array: 
+29 10 14 37 13 
+Sorted array(selection sort): 
+10 13 14 29 37 
+*/
