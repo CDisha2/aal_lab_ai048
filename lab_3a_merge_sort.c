@@ -52,7 +52,7 @@ void main() {
 
     mergeSort(arr, 0, n - 1);
 
-    printf("Sorted array:\n");
+    printf("Sorted array(merge sort):\n");
     for (int i = 0; i < n; i++)
         printf("%d ", arr[i]);
     printf("\n");
