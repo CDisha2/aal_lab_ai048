@@ -84,3 +84,16 @@ int main() {
 
     return 0;
 }
+
+/*OUTPUT:
+
+Enter number of vertices: 5
+Enter number of edges: 4
+Enter edges (u v):
+6 5
+7 1
+6 3
+3 2
+Topological Sort (using DFS): 4 3 2 1 0 
+
+*/
