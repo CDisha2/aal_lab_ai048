@@ -38,7 +38,7 @@ int main() {
 }
 
 
-/*output:
+/*OUTPUT:
 
 Original array: 
 29 10 14 37 13 
