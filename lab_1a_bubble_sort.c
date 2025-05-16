@@ -35,7 +35,7 @@ int main() {
 
     bubbleSort(arr, n);
 
-    printf("Sorted array: \n");
+    printf("Sorted array(bubble sort): \n");
     printArray(arr, n);
     
     return 0;
