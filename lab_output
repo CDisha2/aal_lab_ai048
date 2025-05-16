@@ -61,9 +61,32 @@ pattern matched
 
 
 
+
+
 lab 3a merge sort:
 
+Original array:
+38 27 43 3 9 82 10 
+Sorted array(merge sort):
+3 9 10 27 38 43 82 
 
 
-index :3
+
+
+lab 3b quick sort:
+
+Enter size of array:4
+
+Enter element:8
+
+Enter element:1
+
+Enter element:2
+
+Enter element:7
+Sorted array(quick sort): 1 2 7 8 
+
+
+
+
 
