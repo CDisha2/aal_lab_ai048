@@ -35,3 +35,18 @@ void main(){
 		printf("%d ",a[i]);
 	}
 }
+
+
+/*ouput:
+
+Enter size of array:4
+
+Enter element:8
+
+Enter element:1
+
+Enter element:2
+
+Enter element:7
+Sorted array(quick sort): 1 2 7 8 
+*/
