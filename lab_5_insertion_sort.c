@@ -24,10 +24,18 @@ int main()
 {
     int arr[] = { 12, 11, 13, 5, 6 };
     int n = sizeof(arr) / sizeof(arr[0]);
-
+    printf("array:");
+    printArray(arr, n);
     insertionSort(arr, n);
-    printf("sorted array:");
+    printf("sorted array(insertion sort):");
     printArray(arr, n);
 
     return 0;
 }
+
+/*OUTPUT:
+
+array:12 11 13 5 6 
+sorted array(insertion sort):5 6 11 12 13 
+
+*/
